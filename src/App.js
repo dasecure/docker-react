@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            CCTV and Alarm Panel and I was changed to feature branch
+            Simple modification of features...
           </a>
         </header>
       </div>
